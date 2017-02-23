@@ -1,0 +1,63 @@
+/* This is the CSS format for  
+My_iFrames-TEST.css*/
+
+  Body {
+
+    background-image: url("http://LiberalslikeChrist.org/+Artwork/- Site-decor/prchment.gif");
+    font-size: 2em; 
+font-size: 200%;    
+     }
+
+      #gray-1 {
+    position: absolute;
+    background-color: gray;  
+    left: 3%;  
+    margin-right: 8%;      
+    top: 5%; 
+    height: 65%;
+    width: 28%;     }
+
+      #red-2 {
+     background-color: red;
+     position: absolute;
+     top: 15%; 
+     height: 76%; 
+     width: 25%;   
+     left: 26%;      
+     margin-left: 5%;      
+}
+
+      #blue-3 {
+     position: absolute;
+     top: 5%; 
+     height: 30%; 
+     background-color: cyan; 
+     right: 4%;      
+     width: 23%;    
+    padding: 7%; 
+}
+
+    #pink-4 {
+    position: absolute;
+     bottom: 5%; 
+     height: 33%; 
+    background-color: pink;
+     right: 3%;      
+     width: 20%;
+ }
+
+/*  the combined percentages of 
+23% from the right EDGE &
+a 28% right MARGIN make 
+the pink frame overlap
+the red frame,  */
+
+
+
+
+
+
+/*  The "position: fixed; & " bottom: 0; "
+ are the crucial settings for keeping the 
+"BottomMenu" frame in place, while the 
+"Main" frame moves up and down over it  */
