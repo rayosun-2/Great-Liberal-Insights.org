@@ -1,0 +1,73 @@
+
+/*  
+ /Page-Launchers/TEST4FONT-SIZE_style.css
+  */
+
+Body  {  
+}
+
+H1 {font-size:2em; line-height: 1.2; color:blue}
+H2 {font-size: .4em; color:purple}
+
+P.Title-Centered { background-color: purple; text-align: center; color: white; padding: 10px;  margin-right: 29%;    line-height: 1.8}
+
+P.Title { background-color: green;
+	line-height: 1.4;
+	 text-indent: 16px; 
+	color: cream; 
+	margin-left:33%;
+}
+
+
+P. 1.6rem  ( 
+	line-height: 1.0;
+	text-align: center;
+	font-size: 1.6rem;
+	color: gray;
+
+  }
+
+P. 22px  ( 
+	line-height: 1.0;
+	text-align: center;
+	font-size: 22px;
+	color: blue;
+
+  }
+
+
+P. 222%  ( 
+	line-height: 1.0;
+	text-align: center;
+	font-size: 222%;
+	color: red;
+
+  }
+
+
+P. 0.8em  ( 
+	line-height: 1.0;
+	text-align: center;
+	font-size: 0.8em;
+	color: yellow;
+
+ }
+
+P. x-large  ( 
+	line-height: 1.0;
+	text-align: center;
+	font-size: x-large;
+	color: green;
+
+  }
+
+
+P. xx-large  ( 
+	line-height: 1.0;
+	text-align: center;
+	font-size: xx-large;
+	color: purple;
+
+  }
+
+
